@@ -11,7 +11,7 @@ h1 {
 }
 
 .Orange {
-    color: rgb(0, 197, 223);
+    color: rgb(230, 157, 22);
 }
 
 section {
@@ -25,6 +25,16 @@ section {
 
 .Half-width img {
     width: 50%;
+}
+
+.bio {
+
+    color: rgb(77, 49, 175);
+}
+
+.bio-title {
+
+    color: rgb(184, 2, 2);
 }
 
 
@@ -43,7 +53,7 @@ section {
 }
 
 .Top-Banner {
-    background-image: url(images/a.jpg);
+    background-image: url(images/abc.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
