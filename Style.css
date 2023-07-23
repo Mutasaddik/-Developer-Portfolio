@@ -14,14 +14,14 @@ h1 {
     color: rgb(230, 157, 22);
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
 
 .Half-width {
     width: 50%;
-    padding-left: 5%;
+    padding-left: 20%;
 }
 
 .Half-width img {
@@ -41,7 +41,9 @@ section {
 
 .Second-bio {
 
-    padding-right: 40px;
+    padding-right: 10px;
+
+
 }
 
 
